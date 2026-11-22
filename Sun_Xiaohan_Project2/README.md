@@ -14,7 +14,7 @@ Exploratory analysis of daily CO, PM2.5, and ozone concentrations from the EPA a
 ## Reproduce
 1. Install R and RStudio; install packages: `install.packages(c("dplyr","tidyr","ggplot2","readr","lubridate","knitr","rmarkdown"))`.
 2. Open the project folder in RStudio, set the working directory to the project root, and knit `Project2.Rmd` to Word.
-3. Review the knitted Word report. The author’s GitHub profile is https://github.com/xiaohan820-create.
+3. Review the knitted Word report. The author’s GitHub profile is https://github.com/xiaohan820-create/BIOSTAT_Project2.
 4. To meet the repository requirement, create a project repository, upload the project files, and make at least two genuine commits during development. The ZIP alone does not establish those commits.
 
 ## Author
